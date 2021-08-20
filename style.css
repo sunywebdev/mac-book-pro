@@ -1,0 +1,6 @@
+.btn-light:hover,
+.btn-light:active,
+.btn-light:focus {
+    background-color: rgb(176, 42, 55) !important;
+    color: #fff !important;
+}
